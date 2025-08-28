@@ -1,0 +1,388 @@
+{
+  "chords": {
+    "major": {
+      "intervals": [0, 4, 7],
+      "length": 3,
+      "display_name": "Maj"
+    },
+    "minor": {
+      "intervals": [0, 3, 7],
+      "length": 3,
+      "display_name": "Min"
+    },
+    "diminished": {
+      "intervals": [0, 3, 6],
+      "length": 3,
+      "display_name": "Dim"
+    },
+    "augmented": {
+      "intervals": [0, 4, 8],
+      "length": 3,
+      "display_name": "Aug"
+    },
+    "sus2": {
+      "intervals": [0, 2, 7],
+      "length": 3,
+      "display_name": "Sus2"
+    },
+    "sus4": {
+      "intervals": [0, 5, 7],
+      "length": 3,
+      "display_name": "Sus4"
+    },
+
+    "7": {
+      "intervals": [0, 4, 7, 10],
+      "length": 4,
+      "display_name": "7"
+    },
+    "maj7": {
+      "intervals": [0, 4, 7, 11],
+      "length": 4,
+      "display_name": "Maj7"
+    },
+    "m7": {
+      "intervals": [0, 3, 7, 10],
+      "length": 4,
+      "display_name": "Min7"
+    },
+    "mM7": {
+      "intervals": [0, 3, 7, 11],
+      "length": 4,
+      "display_name": "Min-Maj7"
+    },
+    "dim7": {
+      "intervals": [0, 3, 6, 9],
+      "length": 4,
+      "display_name": "Dim7"
+    },
+    "m7b5": {
+      "intervals": [0, 3, 6, 10],
+      "length": 4,
+      "display_name": "Half-dim7"
+    },
+    "aug7": {
+      "intervals": [0, 4, 8, 10],
+      "length": 4,
+      "display_name": "Aug7"
+    },
+
+    "9": {
+      "intervals": [0, 4, 7, 10, 14],
+      "length": 5,
+      "display_name": "9"
+    },
+    "maj9": {
+      "intervals": [0, 4, 7, 11, 14],
+      "length": 5,
+      "display_name": "Maj9"
+    },
+    "m9": {
+      "intervals": [0, 3, 7, 10, 14],
+      "length": 5,
+      "display_name": "Min9"
+    },
+    "add9": {
+      "intervals": [0, 4, 7, 14],
+      "length": 4,
+      "display_name": "Add9"
+    },
+
+    "11": {
+      "intervals": [0, 4, 7, 10, 14, 17],
+      "length": 6,
+      "display_name": "11"
+    },
+    "13": {
+      "intervals": [0, 4, 7, 10, 14, 17, 21],
+      "length": 7,
+      "display_name": "13"
+    },
+
+    "7b9": {
+      "intervals": [0, 4, 7, 10, 13],
+      "length": 5,
+      "display_name": "7b9"
+    },
+    "7#9": {
+      "intervals": [0, 4, 7, 10, 15],
+      "length": 5,
+      "display_name": "7#9"
+    },
+    "7b5": {
+      "intervals": [0, 4, 6, 10],
+      "length": 4,
+      "display_name": "7b5"
+    },
+    "7#5": {
+      "intervals": [0, 4, 8, 10],
+      "length": 4,
+      "display_name": "7#5"
+    },
+
+    "dom7": {
+      "alias_of": "7",
+      "length": 4,
+      "display_name": "Dom7"
+    },
+    "dominant7": {
+      "alias_of": "7",
+      "length": 4,
+      "display_name": "Dom7"
+    },
+    "major7": {
+      "alias_of": "maj7",
+      "length": 4,
+      "display_name": "Maj7"
+    },
+    "minor7": {
+      "alias_of": "m7",
+      "length": 4,
+      "display_name": "Min7"
+    },
+    "min7": {
+      "alias_of": "m7",
+      "length": 4,
+      "display_name": "Min7"
+    },
+    "half_diminished7": {
+      "alias_of": "m7b5",
+      "length": 4,
+      "display_name": "Half-dim7"
+    },
+    "7b9#11": {
+      "intervals": [0, 4, 7, 10, 13, 18],
+      "length": 6,
+      "display_name": "7b9#11"
+    },
+    "7#9#11": {
+      "intervals": [0, 4, 7, 10, 15, 18],
+      "length": 6,
+      "display_name": "7#9#11"
+    },
+    "13b9": {
+      "intervals": [0, 4, 7, 10, 13, 21],
+      "length": 6,
+      "display_name": "13b9"
+    },
+    "13#9": {
+      "intervals": [0, 4, 7, 10, 15, 21],
+      "length": 6,
+      "display_name": "13#9"
+    },
+    "13b9#11": {
+      "intervals": [0, 4, 7, 10, 13, 18, 21],
+      "length": 7,
+      "display_name": "13b9#11"
+    },
+    "mM9": {
+      "intervals": [0, 3, 7, 11, 14],
+      "length": 5,
+      "display_name": "Min-Maj9"
+    },
+    "mM11": {
+      "intervals": [0, 3, 7, 11, 14, 17],
+      "length": 6,
+      "display_name": "Min-Maj11"
+    },
+    "mM13": {
+      "intervals": [0, 3, 7, 11, 14, 17, 21],
+      "length": 7,
+      "display_name": "Min-Maj13"
+    },
+    "maj7#11": {
+      "intervals": [0, 4, 7, 11, 18],
+      "length": 5,
+      "display_name": "Maj7#11"
+    },
+    "add11": {
+      "intervals": [0, 4, 7, 17],
+      "length": 4,
+      "display_name": "Add11"
+    },
+    "madd9": {
+      "intervals": [0, 3, 7, 14],
+      "length": 4,
+      "display_name": "MinAdd9"
+    },
+    "sus4b9": {
+      "intervals": [0, 5, 7, 10, 13],
+      "length":    5,
+      "display_name": "Sus4b9"
+    },
+
+    "6": {
+      "intervals": [0, 4, 7, 9],
+      "length":    4,
+      "display_name": "6"
+    },
+    "m6": {
+      "intervals": [0, 3, 7, 9],
+      "length":    4,
+      "display_name": "Min6"
+    },
+    "maj13": {
+      "intervals": [0, 4, 7, 11, 14, 17, 21],
+      "length":    7,
+      "display_name": "Maj13"
+    },
+    "m13": {
+      "intervals": [0, 3, 7, 10, 14, 17, 21],
+      "length":    7,
+      "display_name": "Min13"
+    },
+    "7sus4": {
+      "intervals": [0, 5, 7, 10],
+      "length":    4,
+      "display_name": "7Sus4"
+    },
+    "madd11": {
+      "intervals": [0, 3, 7, 17],
+      "length":    4,
+      "display_name": "MinAdd11"
+    },
+
+    "m7#5": {
+      "intervals": [0, 3, 8, 10],
+      "length":    4,
+      "display_name": "Min7#5"
+    },
+    "maj7#5": {
+      "intervals": [0, 4, 8, 11],
+      "length":    4,
+      "display_name": "Maj7#5"
+    },
+    "maj7b5": {
+      "intervals": [0, 4, 6, 11],
+      "length":    4,
+      "display_name": "Maj7b5"
+    },
+    "dimMaj7": {
+      "intervals": [0, 3, 6, 11],
+      "length":    4,
+      "display_name": "DimMaj7"
+    },
+    "m7b5add9": {
+      "intervals": [0, 3, 6, 10, 14],
+      "length":    5,
+      "display_name": "Min7b5add9"
+    },
+    "6add9": {
+      "intervals": [0, 4, 7, 9, 14],
+      "length":    5,
+      "display_name": "6add9"
+    },
+    "m6add9": {
+      "intervals": [0, 3, 7, 9, 14],
+      "length":    5,
+      "display_name": "Min6add9"
+    },
+    "7b13": {
+      "intervals": [0, 4, 7, 10, 20],
+      "length":    5,
+      "display_name": "7b13"
+    },
+    "7#11": {
+      "intervals": [0, 4, 7, 10, 18],
+      "length":    5,
+      "display_name": "7#11"
+    },
+    "9sus4": {
+      "intervals": [0, 5, 7, 10, 14],
+      "length":    5,
+      "display_name": "9sus4"
+    },
+    "7sus2": {
+      "intervals": [0, 2, 7, 10],
+      "length":    4,
+      "display_name": "7sus2"
+    },
+    "add13": {
+      "intervals": [0, 4, 7, 21],
+      "length":    4,
+      "display_name": "Add13"
+    },
+    "madd13": {
+      "intervals": [0, 3, 7, 21],
+      "length":    4,
+      "display_name": "MinAdd13"
+    },
+    "maj7add11": {
+      "intervals": [0, 4, 7, 11, 17],
+      "length":    5,
+      "display_name": "Maj7add11"
+    },
+    "m11": {
+      "intervals": [0, 3, 7, 10, 14, 17],
+      "length": 6,
+      "display_name": "Min11"
+    },
+    "7alt": {
+      "intervals": [0, 4, 7, 10, 13, 15],
+      "length": 6,
+      "display_name": "7alt"
+    },
+    "13sus4": {
+      "intervals": [0, 5, 7, 10, 14, 17, 21],
+      "length": 7,
+      "display_name": "13Sus4"
+    },
+    "7sus4b9": {
+      "intervals": [0, 5, 7, 10, 13],
+      "length": 5,
+      "display_name": "7Sus4b9"
+    },
+    "9sus2": {
+      "intervals": [0, 2, 7, 10, 14],
+      "length": 5,
+      "display_name": "9Sus2"
+    },
+    "13sus2": {
+      "intervals": [0, 2, 7, 10, 14, 17, 21],
+      "length": 7,
+      "display_name": "13Sus2"
+    },
+    "maj7#5#11": {
+      "intervals": [0, 4, 8, 11, 18],
+      "length": 5,
+      "display_name": "Maj7#5#11"
+    },
+    "m11b13": {
+      "intervals": [0, 3, 7, 10, 14, 17, 20],
+      "length": 7,
+      "display_name": "Min11b13"
+    },
+    "7#9b13": {
+      "intervals": [0, 4, 7, 10, 15, 20],
+      "length": 6,
+      "display_name": "7#9b13"
+    },
+    "maj9#11": {
+      "intervals": [0, 4, 7, 11, 14, 18],
+      "length": 6,
+      "display_name": "Maj9#11"
+    },
+    "7b9#9": {
+      "intervals": [0, 4, 7, 10, 13, 15],
+      "length": 6,
+      "display_name": "7b9#9"
+    }
+  },
+
+  "intervals": {
+    "P1": 0,
+    "m2": 1,
+    "M2": 2,
+    "m3": 3,
+    "M3": 4,
+    "P4": 5,
+    "A4": 6,
+    "d5": 6,
+    "P5": 7,
+    "m6": 8,
+    "M6": 9,
+    "m7": 10,
+    "M7": 11,
+    "P8": 12
+  }
+}
